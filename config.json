@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
+      "commerce-core-endpoint": "https://app.echolocal.test/graphql",
+      "commerce-endpoint": "https://app.echolocal.test/cs-graphql",
       "headers": {
         "all": {
           "Store": "default"
@@ -12,16 +12,16 @@
           "Magento-Store-Code": "main_website_store",
           "Magento-Store-View-Code": "default",
           "Magento-Website-Code": "base",
-          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
-          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
+          "x-api-key": "b4a04782ccd348a6835666b73a7a3c80",
+          "Magento-Environment-Id": "1cb26dd6-ddb2-4909-b026-2a8c18bb3052"
         }
       },
       "analytics": {
         "base-currency-code": "USD",
-        "environment": "Production",
+        "environment": "Developer",
         "store-id": 1,
         "store-name": "Main Website Store",
-        "store-url": "https://www.aemshop.net",
+        "store-url": "https://app.echolocal.test",
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
