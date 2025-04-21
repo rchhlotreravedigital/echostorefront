@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://app.echolocal.test/graphql",
-      "commerce-endpoint": "https://app.echolocal.test/cs-graphql",
+      "commerce-endpoint": "https://catalog-service-sandbox.adobe.io/graphql",
       "headers": {
         "all": {
           "Store": "default"
@@ -12,7 +12,7 @@
           "Magento-Store-Code": "main_website_store",
           "Magento-Store-View-Code": "default",
           "Magento-Website-Code": "base",
-          "x-api-key": "b4a04782ccd348a6835666b73a7a3c80",
+          "x-api-key": "search_gql",
           "Magento-Environment-Id": "1cb26dd6-ddb2-4909-b026-2a8c18bb3052"
         }
       },
